@@ -39,3 +39,4 @@ python app.py
 ## License
 This project is licensed under the MIT License.
 
+![Alt text](media/demo.gif)
